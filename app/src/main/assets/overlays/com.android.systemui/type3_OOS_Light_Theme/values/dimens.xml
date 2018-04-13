@@ -4,4 +4,5 @@
     <dimen name="dash_view_margin_bottom">35.0dip</dimen>
     <dimen name="qs_header_upper_height_custom">62.0dip</dimen>
     <dimen name="qs_header_upper_height">52.0dip</dimen>
+    <dimen name="qs_upper_frame_height">152.0dip</dimen>
 </resources>
